@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamammar&label=Profile%20views&color=0e75b6&style=flat" alt="mahamammar" /> </p>
 
-- 💬 Ask me about **ReactJs, AngularJS, NodeJS, ExpreesJS, NextJS, TypeScript, NustJS, JavaScript, ReactNative, flutter, MySQL, MongoDB**
+- 💬 Ask me about **ReactJs, AngularJS, NodeJS, ExpressJS, NextJS, TypeScript, NustJS, JavaScript, ReactNative, flutter, MySQL, MongoDB**
 
 - 📫 How to reach me **maham.ammar95@gmail.com**
 
